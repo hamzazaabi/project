@@ -10,7 +10,7 @@ return (
 <p>The easiest thing to do is post on
 our <a href="http://forum.kirupa.com">forums</a>.
 </p>
-<MapContainer/>
+
 </div>
 
 );
